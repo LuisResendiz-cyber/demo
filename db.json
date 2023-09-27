@@ -1,14 +1,37 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": "6513e6de993f4adb12657a90",
+    "edad": 40,
+    "pais": "South Africa",
+    "email": "patterson_clay@gmail.com",
+    "nombre": "Patterson Clay"
+  },
+  {
+    "id": "6513e6defba682f13486fef5",
+    "edad": 49,
+    "pais": "Singapore",
+    "email": "franks_wade@gmail.com",
+    "nombre": "Franks Wade"
+  },
+  {
+    "id": "6513e6de3d69760edde281c4",
+    "edad": 21,
+    "pais": "East Timor",
+    "email": "cantu_dixon@gmail.com",
+    "nombre": "Cantu Dixon"
+  },
+  {
+    "id": "6513e6de96cbb55097af48f2",
+    "edad": 26,
+    "pais": "Brazil",
+    "email": "bartlett_robbins@gmail.com",
+    "nombre": "Bartlett Robbins"
+  },
+  {
+    "id": "6513e6def27973e1a2c3009f",
+    "edad": 49,
+    "pais": "Colombia",
+    "email": "obrien_mcpherson@gmail.com",
+    "nombre": "Obrien Mcpherson"
   }
-}
+]
